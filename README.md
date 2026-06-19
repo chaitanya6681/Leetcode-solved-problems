@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0557-reverse-words-in-a-string-iii](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/master/0557-reverse-words-in-a-string-iii) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1844-replace-all-digits-with-characters](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/master/1844-replace-all-digits-with-characters) |
+| [3280-convert-date-to-binary](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/master/3280-convert-date-to-binary) |
 | [3794-reverse-string-prefix](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/master/3794-reverse-string-prefix) |
 ## Bit Manipulation
 |  |
@@ -36,4 +37,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0557-reverse-words-in-a-string-iii](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/master/0557-reverse-words-in-a-string-iii) |
 | [3794-reverse-string-prefix](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/master/3794-reverse-string-prefix) |
+## Math
+|  |
+| ------- |
+| [3280-convert-date-to-binary](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/master/3280-convert-date-to-binary) |
 <!---LeetCode Topics End-->
