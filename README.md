@@ -49,10 +49,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/master/0231-power-of-two) |
+| [2413-smallest-even-multiple](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/master/2413-smallest-even-multiple) |
 | [3280-convert-date-to-binary](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/master/3280-convert-date-to-binary) |
 ## Recursion
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/master/0231-power-of-two) |
+## Number Theory
+|  |
+| ------- |
+| [2413-smallest-even-multiple](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/master/2413-smallest-even-multiple) |
 <!---LeetCode Topics End-->
