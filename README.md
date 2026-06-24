@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3280-convert-date-to-binary](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/master/3280-convert-date-to-binary) |
 | [3340-check-balanced-string](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/master/3340-check-balanced-string) |
 | [3794-reverse-string-prefix](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/master/3794-reverse-string-prefix) |
+| [3931-check-adjacent-digit-differences](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/master/3931-check-adjacent-digit-differences) |
 ## Bit Manipulation
 |  |
 | ------- |
