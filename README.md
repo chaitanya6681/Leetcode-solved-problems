@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/master/0043-multiply-strings) |
 | [0657-robot-return-to-origin](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/master/0657-robot-return-to-origin) |
 | [1688-count-of-matches-in-tournament](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/master/1688-count-of-matches-in-tournament) |
 | [3925-concatenate-array-with-reverse](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/master/3925-concatenate-array-with-reverse) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/master/0043-multiply-strings) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0657-robot-return-to-origin](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/master/0657-robot-return-to-origin) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/master/1684-count-the-number-of-consistent-strings) |
@@ -58,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/master/0029-divide-two-integers) |
+| [0043-multiply-strings](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/master/0043-multiply-strings) |
 | [0050-powx-n](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/master/0231-power-of-two) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/master/1295-find-numbers-with-even-number-of-digits) |
