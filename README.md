@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1684-count-the-number-of-consistent-strings](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1816-truncate-sentence](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/master/1816-truncate-sentence) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
+| [2574-left-and-right-sum-differences](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/master/2574-left-and-right-sum-differences) |
 | [3925-concatenate-array-with-reverse](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/master/3925-concatenate-array-with-reverse) |
 ## Simulation
 |  |
@@ -80,4 +81,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2785-sort-vowels-in-a-string](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/master/2785-sort-vowels-in-a-string) |
+## Prefix Sum
+|  |
+| ------- |
+| [2574-left-and-right-sum-differences](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/master/2574-left-and-right-sum-differences) |
 <!---LeetCode Topics End-->
