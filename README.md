@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/master/1684-count-the-number-of-consistent-strings) |
+| [1816-truncate-sentence](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/master/1816-truncate-sentence) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [3925-concatenate-array-with-reverse](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/master/3925-concatenate-array-with-reverse) |
 ## Simulation
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0557-reverse-words-in-a-string-iii](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0657-robot-return-to-origin](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/master/0657-robot-return-to-origin) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/master/1684-count-the-number-of-consistent-strings) |
+| [1816-truncate-sentence](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/master/1816-truncate-sentence) |
 | [1844-replace-all-digits-with-characters](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/master/1844-replace-all-digits-with-characters) |
 | [2351-first-letter-to-appear-twice](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/master/2351-first-letter-to-appear-twice) |
 | [2785-sort-vowels-in-a-string](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/master/2785-sort-vowels-in-a-string) |
