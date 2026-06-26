@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/master/0412-fizz-buzz) |
 | [0657-robot-return-to-origin](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/master/0657-robot-return-to-origin) |
 | [1688-count-of-matches-in-tournament](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/master/1688-count-of-matches-in-tournament) |
+| [2180-count-integers-with-even-digit-sum](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/master/2180-count-integers-with-even-digit-sum) |
 | [3925-concatenate-array-with-reverse](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/master/3925-concatenate-array-with-reverse) |
 ## Hash Table
 |  |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/master/0412-fizz-buzz) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1688-count-of-matches-in-tournament](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/master/1688-count-of-matches-in-tournament) |
+| [2180-count-integers-with-even-digit-sum](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2413-smallest-even-multiple](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/master/2413-smallest-even-multiple) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
