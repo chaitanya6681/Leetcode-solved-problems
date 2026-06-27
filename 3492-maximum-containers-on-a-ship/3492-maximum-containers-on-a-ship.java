@@ -3,6 +3,7 @@ class Solution {
         int r=0;
         for(int i=1;i<=n*n;i++){
             if(i*w<=maxWeight) r=i;
+            if(i*w>maxWeight) break;
         }
         return r;
     }
