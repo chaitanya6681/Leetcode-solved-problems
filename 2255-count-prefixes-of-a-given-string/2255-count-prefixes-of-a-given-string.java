@@ -11,7 +11,9 @@ class Solution {
                 if(a.charAt(j)==s.charAt(j)) c++;
                 else break;
             }
-            if(c>0) r++;
+            if(c==a.length()){
+                r++;
+            } 
         } return r;
     }
 }
