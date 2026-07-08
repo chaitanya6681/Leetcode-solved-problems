@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0029-divide-two-integers](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/master/0029-divide-two-integers) |
 | [0231-power-of-two](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/master/0342-power-of-four) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2351-first-letter-to-appear-twice](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/master/2351-first-letter-to-appear-twice) |
 ## Counting
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/master/0066-plus-one) |
 | [0231-power-of-two](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/master/0342-power-of-four) |
 | [0412-fizz-buzz](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/master/0412-fizz-buzz) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/master/1523-count-odd-numbers-in-an-interval-range) |
@@ -93,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/master/0342-power-of-four) |
 ## Number Theory
 |  |
 | ------- |
