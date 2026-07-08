@@ -4,11 +4,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Array
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0066-plus-one](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/master/0066-plus-one) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/master/1684-count-the-number-of-consistent-strings) |
+| [1748-sum-of-unique-elements](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/main/1748-sum-of-unique-elements/) | Easy |
 | [1816-truncate-sentence](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/master/1816-truncate-sentence) |
 | [2255-count-prefixes-of-a-given-string](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/master/2255-count-prefixes-of-a-given-string) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -16,8 +17,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3663-find-the-least-frequent-digit](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/master/3663-find-the-least-frequent-digit) |
 | [3925-concatenate-array-with-reverse](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/master/3925-concatenate-array-with-reverse) |
 ## Simulation
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0043-multiply-strings](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/master/0043-multiply-strings) |
 | [0412-fizz-buzz](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/master/0412-fizz-buzz) |
 | [0657-robot-return-to-origin](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/master/0657-robot-return-to-origin) |
@@ -25,14 +26,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2180-count-integers-with-even-digit-sum](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/master/2180-count-integers-with-even-digit-sum) |
 | [3925-concatenate-array-with-reverse](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/master/3925-concatenate-array-with-reverse) |
 ## Hash Table
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [1684-count-the-number-of-consistent-strings](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/master/1684-count-the-number-of-consistent-strings) |
+| [1748-sum-of-unique-elements](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/main/1748-sum-of-unique-elements/) | Easy |
 | [2351-first-letter-to-appear-twice](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/master/2351-first-letter-to-appear-twice) |
 | [3663-find-the-least-frequent-digit](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/master/3663-find-the-least-frequent-digit) |
 ## String
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0043-multiply-strings](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/master/0043-multiply-strings) |
 | [0412-fizz-buzz](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/master/0412-fizz-buzz) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/master/0557-reverse-words-in-a-string-iii) |
@@ -49,28 +51,29 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3794-reverse-string-prefix](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/master/3794-reverse-string-prefix) |
 | [3931-check-adjacent-digit-differences](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/master/3931-check-adjacent-digit-differences) |
 ## Bit Manipulation
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0029-divide-two-integers](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/master/0029-divide-two-integers) |
 | [0231-power-of-two](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/master/0342-power-of-four) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2351-first-letter-to-appear-twice](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/master/2351-first-letter-to-appear-twice) |
 ## Counting
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [1684-count-the-number-of-consistent-strings](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/master/1684-count-the-number-of-consistent-strings) |
+| [1748-sum-of-unique-elements](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/main/1748-sum-of-unique-elements/) | Easy |
 | [2351-first-letter-to-appear-twice](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/master/2351-first-letter-to-appear-twice) |
 | [3663-find-the-least-frequent-digit](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/master/3663-find-the-least-frequent-digit) |
 ## Two Pointers
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0557-reverse-words-in-a-string-iii](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/master/0557-reverse-words-in-a-string-iii) |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [3794-reverse-string-prefix](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/master/3794-reverse-string-prefix) |
 ## Math
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0029-divide-two-integers](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/master/0043-multiply-strings) |
 | [0050-powx-n](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/master/0050-powx-n) |
@@ -92,26 +95,26 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3663-find-the-least-frequent-digit](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/master/3663-find-the-least-frequent-digit) |
 | [3908-valid-digit-number](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/master/3908-valid-digit-number) |
 ## Recursion
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0050-powx-n](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/master/0342-power-of-four) |
 ## Number Theory
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [2413-smallest-even-multiple](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/master/2413-smallest-even-multiple) |
 ## Sorting
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [2785-sort-vowels-in-a-string](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/master/2785-sort-vowels-in-a-string) |
 ## Prefix Sum
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [2574-left-and-right-sum-differences](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/master/2574-left-and-right-sum-differences) |
 ## String Matching
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 <!---LeetCode Topics End-->
