@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1684-count-the-number-of-consistent-strings](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1748-sum-of-unique-elements](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/main/1748-sum-of-unique-elements/) | Easy |
 | [1816-truncate-sentence](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/master/1816-truncate-sentence) |
+| [1991-find-the-middle-index-in-array](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/main/1991-find-the-middle-index-in-array/) | Easy |
 | [2255-count-prefixes-of-a-given-string](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/master/2255-count-prefixes-of-a-given-string) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2574-left-and-right-sum-differences](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/master/2574-left-and-right-sum-differences) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1991-find-the-middle-index-in-array](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/main/1991-find-the-middle-index-in-array/) | Easy |
 | [2574-left-and-right-sum-differences](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/master/2574-left-and-right-sum-differences) |
 ## String Matching
 | Problem Name | Difficulty |
