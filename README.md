@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2574-left-and-right-sum-differences](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/master/2574-left-and-right-sum-differences) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/main/3005-count-elements-with-maximum-frequency/) | Easy |
 | [3663-find-the-least-frequent-digit](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/master/3663-find-the-least-frequent-digit) |
+| [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/main/3712-sum-of-elements-with-frequency-divisible-by-k/) | Easy |
 | [3925-concatenate-array-with-reverse](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/master/3925-concatenate-array-with-reverse) |
 ## Simulation
 | Problem Name | Difficulty |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2351-first-letter-to-appear-twice](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/master/2351-first-letter-to-appear-twice) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/main/3005-count-elements-with-maximum-frequency/) | Easy |
 | [3663-find-the-least-frequent-digit](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/master/3663-find-the-least-frequent-digit) |
+| [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/main/3712-sum-of-elements-with-frequency-divisible-by-k/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -69,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2351-first-letter-to-appear-twice](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/master/2351-first-letter-to-appear-twice) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/main/3005-count-elements-with-maximum-frequency/) | Easy |
 | [3663-find-the-least-frequent-digit](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/master/3663-find-the-least-frequent-digit) |
+| [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/main/3712-sum-of-elements-with-frequency-divisible-by-k/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
