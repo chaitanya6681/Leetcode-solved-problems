@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0066-plus-one](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/master/0066-plus-one) |
 | [0912-sort-an-array](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/main/0912-sort-an-array/) | Medium |
+| [1051-height-checker](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/main/1051-height-checker/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1748-sum-of-unique-elements](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/main/1748-sum-of-unique-elements/) | Easy |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0912-sort-an-array](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/main/0912-sort-an-array/) | Medium |
+| [1051-height-checker](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/main/1051-height-checker/) | Easy |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/main/2037-minimum-number-of-moves-to-seat-everyone/) | Easy |
 | [2785-sort-vowels-in-a-string](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/master/2785-sort-vowels-in-a-string) |
 | [3024-type-of-triangle](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/main/3024-type-of-triangle/) | Easy |
@@ -161,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0912-sort-an-array](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/main/0912-sort-an-array/) | Medium |
+| [1051-height-checker](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/main/1051-height-checker/) | Easy |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/main/2037-minimum-number-of-moves-to-seat-everyone/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
