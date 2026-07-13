@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1991-find-the-middle-index-in-array](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/main/1991-find-the-middle-index-in-array/) | Easy |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/main/2037-minimum-number-of-moves-to-seat-everyone/) | Easy |
 | [2255-count-prefixes-of-a-given-string](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/master/2255-count-prefixes-of-a-given-string) |
+| [2404-most-frequent-even-element](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/main/2404-most-frequent-even-element/) | Easy |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/main/2455-average-value-of-even-numbers-that-are-divisible-by-three/) | Easy |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2574-left-and-right-sum-differences](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/master/2574-left-and-right-sum-differences) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1684-count-the-number-of-consistent-strings](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1748-sum-of-unique-elements](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/main/1748-sum-of-unique-elements/) | Easy |
 | [2351-first-letter-to-appear-twice](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/master/2351-first-letter-to-appear-twice) |
+| [2404-most-frequent-even-element](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/main/2404-most-frequent-even-element/) | Easy |
 | [3005-count-elements-with-maximum-frequency](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/main/3005-count-elements-with-maximum-frequency/) | Easy |
 | [3663-find-the-least-frequent-digit](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/master/3663-find-the-least-frequent-digit) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/main/3712-sum-of-elements-with-frequency-divisible-by-k/) | Easy |
@@ -77,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1684-count-the-number-of-consistent-strings](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1748-sum-of-unique-elements](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/main/1748-sum-of-unique-elements/) | Easy |
 | [2351-first-letter-to-appear-twice](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/master/2351-first-letter-to-appear-twice) |
+| [2404-most-frequent-even-element](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/main/2404-most-frequent-even-element/) | Easy |
 | [3005-count-elements-with-maximum-frequency](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/main/3005-count-elements-with-maximum-frequency/) | Easy |
 | [3663-find-the-least-frequent-digit](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/master/3663-find-the-least-frequent-digit) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/main/3712-sum-of-elements-with-frequency-divisible-by-k/) | Easy |
