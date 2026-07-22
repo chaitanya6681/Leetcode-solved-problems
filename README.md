@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1991-find-the-middle-index-in-array](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/main/1991-find-the-middle-index-in-array/) | Easy |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/main/2037-minimum-number-of-moves-to-seat-everyone/) | Easy |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/main/2154-keep-multiplying-found-values-by-two/) | Easy |
+| [2164-sort-even-and-odd-indices-independently](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/main/2164-sort-even-and-odd-indices-independently/) | Easy |
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/main/2176-count-equal-and-divisible-pairs-in-an-array/) | Easy |
 | [2255-count-prefixes-of-a-given-string](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/master/2255-count-prefixes-of-a-given-string) |
 | [2404-most-frequent-even-element](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/main/2404-most-frequent-even-element/) | Easy |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1051-height-checker](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/main/1051-height-checker/) | Easy |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/main/2037-minimum-number-of-moves-to-seat-everyone/) | Easy |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/main/2154-keep-multiplying-found-values-by-two/) | Easy |
+| [2164-sort-even-and-odd-indices-independently](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/main/2164-sort-even-and-odd-indices-independently/) | Easy |
 | [2785-sort-vowels-in-a-string](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/master/2785-sort-vowels-in-a-string) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 | [3024-type-of-triangle](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/main/3024-type-of-triangle/) | Easy |
