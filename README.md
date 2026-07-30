@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0066-plus-one](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/master/0066-plus-one) |
 | [0217-contains-duplicate](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/main/0217-contains-duplicate/) | Easy |
 | [0414-third-maximum-number](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/main/0414-third-maximum-number/) | Easy |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0557-reverse-words-in-a-string-iii](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0905-sort-array-by-parity](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0917-reverse-only-letters](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/main/0917-reverse-only-letters/) | Easy |
