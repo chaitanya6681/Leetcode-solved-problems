@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/main/2176-count-equal-and-divisible-pairs-in-an-array/) | Easy |
 | [2255-count-prefixes-of-a-given-string](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/master/2255-count-prefixes-of-a-given-string) |
 | [2404-most-frequent-even-element](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/main/2404-most-frequent-even-element/) | Easy |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/main/2410-maximum-matching-of-players-with-trainers/) | Medium |
 | [2418-sort-the-people](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/main/2418-sort-the-people/) | Easy |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/main/2455-average-value-of-even-numbers-that-are-divisible-by-three/) | Easy |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0922-sort-array-by-parity-ii](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/main/0922-sort-array-by-parity-ii/) | Easy |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/main/2410-maximum-matching-of-players-with-trainers/) | Medium |
 | [2540-minimum-common-value](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/main/2540-minimum-common-value/) | Easy |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 | [3794-reverse-string-prefix](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/master/3794-reverse-string-prefix) |
@@ -187,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/main/2037-minimum-number-of-moves-to-seat-everyone/) | Easy |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/main/2154-keep-multiplying-found-values-by-two/) | Easy |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/main/2164-sort-even-and-odd-indices-independently/) | Easy |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/main/2410-maximum-matching-of-players-with-trainers/) | Medium |
 | [2418-sort-the-people](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/main/2418-sort-the-people/) | Easy |
 | [2785-sort-vowels-in-a-string](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/master/2785-sort-vowels-in-a-string) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
@@ -233,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/main/2037-minimum-number-of-moves-to-seat-everyone/) | Easy |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/main/2410-maximum-matching-of-players-with-trainers/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
