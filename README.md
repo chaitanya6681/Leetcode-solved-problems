@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3513-number-of-unique-xor-triplets-i](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 | [3663-find-the-least-frequent-digit](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/master/3663-find-the-least-frequent-digit) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/main/3712-sum-of-elements-with-frequency-divisible-by-k/) | Easy |
+| [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/main/3774-absolute-difference-between-maximum-and-minimum-k-elements/) | Easy |
 | [3925-concatenate-array-with-reverse](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/master/3925-concatenate-array-with-reverse) |
 ## Simulation
 | Problem Name | Difficulty |
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 | [3024-type-of-triangle](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/main/3024-type-of-triangle/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/main/3536-maximum-product-of-two-digits/) | Easy |
+| [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/main/3774-absolute-difference-between-maximum-and-minimum-k-elements/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
