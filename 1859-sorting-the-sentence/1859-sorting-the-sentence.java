@@ -6,13 +6,13 @@ class Solution {
             char b=p.charAt(p.length()-1);
             r[b-'0'-1]=p.substring(0,p.length()-1);
         }
-        String n="";
+        StringBuilder n=new StringBuilder();
         int i=1;
         for(String v:r){
-            n+=v;
-            if(i!=a.length) n+=" ";
+            n.append(v);
+            if(i!=a.length) n.append(" ");
             i++;
         }
-        return n;
+        return n.toString();
     }
 }
