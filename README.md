@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1684-count-the-number-of-consistent-strings](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1816-truncate-sentence](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/master/1816-truncate-sentence) |
 | [1844-replace-all-digits-with-characters](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/master/1844-replace-all-digits-with-characters) |
+| [1859-sorting-the-sentence](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/main/1859-sorting-the-sentence/) | Easy |
 | [2255-count-prefixes-of-a-given-string](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/master/2255-count-prefixes-of-a-given-string) |
 | [2351-first-letter-to-appear-twice](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/master/2351-first-letter-to-appear-twice) |
 | [2418-sort-the-people](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/main/2418-sort-the-people/) | Easy |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/main/0912-sort-an-array/) | Medium |
 | [0922-sort-array-by-parity-ii](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/main/0922-sort-array-by-parity-ii/) | Easy |
 | [1051-height-checker](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/main/1051-height-checker/) | Easy |
+| [1859-sorting-the-sentence](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/main/1859-sorting-the-sentence/) | Easy |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/main/2037-minimum-number-of-moves-to-seat-everyone/) | Easy |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/main/2154-keep-multiplying-found-values-by-two/) | Easy |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/main/2164-sort-even-and-odd-indices-independently/) | Easy |
