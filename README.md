@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/main/3712-sum-of-elements-with-frequency-divisible-by-k/) | Easy |
 | [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/main/3774-absolute-difference-between-maximum-and-minimum-k-elements/) | Easy |
 | [3925-concatenate-array-with-reverse](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/master/3925-concatenate-array-with-reverse) |
+| [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/main/3936-minimum-swaps-to-move-zeros-to-end/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2540-minimum-common-value](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/main/2540-minimum-common-value/) | Easy |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 | [3794-reverse-string-prefix](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/master/3794-reverse-string-prefix) |
+| [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/main/3936-minimum-swaps-to-move-zeros-to-end/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
