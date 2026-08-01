@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2404-most-frequent-even-element](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/main/2404-most-frequent-even-element/) | Easy |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/main/2410-maximum-matching-of-players-with-trainers/) | Medium |
 | [2418-sort-the-people](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/main/2418-sort-the-people/) | Easy |
+| [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/main/2441-largest-positive-integer-that-exists-with-its-negative/) | Easy |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/main/2455-average-value-of-even-numbers-that-are-divisible-by-three/) | Easy |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2540-minimum-common-value](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/main/2540-minimum-common-value/) | Easy |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2351-first-letter-to-appear-twice](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/master/2351-first-letter-to-appear-twice) |
 | [2404-most-frequent-even-element](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/main/2404-most-frequent-even-element/) | Easy |
 | [2418-sort-the-people](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/main/2418-sort-the-people/) | Easy |
+| [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/main/2441-largest-positive-integer-that-exists-with-its-negative/) | Easy |
 | [2540-minimum-common-value](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/main/2540-minimum-common-value/) | Easy |
 | [3005-count-elements-with-maximum-frequency](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/main/3005-count-elements-with-maximum-frequency/) | Easy |
 | [3663-find-the-least-frequent-digit](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/master/3663-find-the-least-frequent-digit) |
@@ -127,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/main/2410-maximum-matching-of-players-with-trainers/) | Medium |
+| [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/main/2441-largest-positive-integer-that-exists-with-its-negative/) | Easy |
 | [2540-minimum-common-value](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/main/2540-minimum-common-value/) | Easy |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 | [3794-reverse-string-prefix](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/master/3794-reverse-string-prefix) |
@@ -196,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2164-sort-even-and-odd-indices-independently](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/main/2164-sort-even-and-odd-indices-independently/) | Easy |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/main/2410-maximum-matching-of-players-with-trainers/) | Medium |
 | [2418-sort-the-people](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/main/2418-sort-the-people/) | Easy |
+| [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/main/2441-largest-positive-integer-that-exists-with-its-negative/) | Easy |
 | [2785-sort-vowels-in-a-string](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/master/2785-sort-vowels-in-a-string) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 | [3024-type-of-triangle](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/main/3024-type-of-triangle/) | Easy |
