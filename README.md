@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0912-sort-an-array](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/main/0912-sort-an-array/) | Medium |
 | [0922-sort-array-by-parity-ii](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/main/0922-sort-array-by-parity-ii/) | Easy |
+| [0977-squares-of-a-sorted-array](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1051-height-checker](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/main/1051-height-checker/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/master/1684-count-the-number-of-consistent-strings) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0917-reverse-only-letters](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/main/0917-reverse-only-letters/) | Easy |
 | [0922-sort-array-by-parity-ii](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/main/0922-sort-array-by-parity-ii/) | Easy |
+| [0977-squares-of-a-sorted-array](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/main/2410-maximum-matching-of-players-with-trainers/) | Medium |
@@ -186,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0912-sort-an-array](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/main/0912-sort-an-array/) | Medium |
 | [0922-sort-array-by-parity-ii](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/main/0922-sort-array-by-parity-ii/) | Easy |
+| [0977-squares-of-a-sorted-array](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1051-height-checker](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/main/1051-height-checker/) | Easy |
 | [1859-sorting-the-sentence](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/main/1859-sorting-the-sentence/) | Easy |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/main/2037-minimum-number-of-moves-to-seat-everyone/) | Easy |
