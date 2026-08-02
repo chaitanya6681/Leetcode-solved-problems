@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/master/0342-power-of-four) |
 | [0412-fizz-buzz](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/master/0412-fizz-buzz) |
+| [0509-fibonacci-number](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/main/0509-fibonacci-number/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/master/1523-count-odd-numbers-in-an-interval-range) |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/master/0342-power-of-four) |
+| [0509-fibonacci-number](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/main/0509-fibonacci-number/) | Easy |
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -253,4 +255,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [2540-minimum-common-value](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/main/2540-minimum-common-value/) | Easy |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0509-fibonacci-number](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/main/0509-fibonacci-number/) | Easy |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0509-fibonacci-number](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/main/0509-fibonacci-number/) | Easy |
 <!---LeetCode Topics End-->
