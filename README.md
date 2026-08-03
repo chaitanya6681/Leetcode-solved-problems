@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0414-third-maximum-number](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/main/0414-third-maximum-number/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
+| [0877-stone-game](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/main/0877-stone-game/) | Medium |
 | [0905-sort-array-by-parity](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0912-sort-an-array](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/main/0912-sort-an-array/) | Medium |
 | [0922-sort-array-by-parity-ii](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/main/0922-sort-array-by-parity-ii/) | Easy |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/main/0509-fibonacci-number/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
+| [0877-stone-game](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/main/0877-stone-game/) | Medium |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1688-count-of-matches-in-tournament](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/master/1688-count-of-matches-in-tournament) |
@@ -259,8 +261,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0509-fibonacci-number](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/main/0509-fibonacci-number/) | Easy |
+| [0877-stone-game](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/main/0877-stone-game/) | Medium |
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0509-fibonacci-number](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/main/0509-fibonacci-number/) | Easy |
+## Game Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0877-stone-game](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/main/0877-stone-game/) | Medium |
 <!---LeetCode Topics End-->
