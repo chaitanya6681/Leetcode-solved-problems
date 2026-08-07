@@ -296,21 +296,28 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+| [0104-maximum-depth-of-binary-tree](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0938-range-sum-of-bst](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/main/0938-range-sum-of-bst/) | Easy |
 | [2236-root-equals-sum-of-children](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/main/2236-root-equals-sum-of-children/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+| [0104-maximum-depth-of-binary-tree](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0938-range-sum-of-bst](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/main/0938-range-sum-of-bst/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+| [0104-maximum-depth-of-binary-tree](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0938-range-sum-of-bst](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/main/0938-range-sum-of-bst/) | Easy |
 | [2236-root-equals-sum-of-children](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/main/2236-root-equals-sum-of-children/) | Easy |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0938-range-sum-of-bst](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/main/0938-range-sum-of-bst/) | Easy |
+## Breadth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 <!---LeetCode Topics End-->
