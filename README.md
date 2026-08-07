@@ -297,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0938-range-sum-of-bst](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/main/0938-range-sum-of-bst/) | Easy |
+| [2236-root-equals-sum-of-children](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/main/2236-root-equals-sum-of-children/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -307,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0938-range-sum-of-bst](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/main/0938-range-sum-of-bst/) | Easy |
+| [2236-root-equals-sum-of-children](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/main/2236-root-equals-sum-of-children/) | Easy |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
