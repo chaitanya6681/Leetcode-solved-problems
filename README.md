@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/main/2455-average-value-of-even-numbers-that-are-divisible-by-three/) | Easy |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2540-minimum-common-value](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/main/2540-minimum-common-value/) | Easy |
+| [2549-count-distinct-numbers-on-board](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/main/2549-count-distinct-numbers-on-board/) | Easy |
 | [2574-left-and-right-sum-differences](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/master/2574-left-and-right-sum-differences) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 | [3005-count-elements-with-maximum-frequency](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/main/3005-count-elements-with-maximum-frequency/) | Easy |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2149-rearrange-array-elements-by-sign](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/main/2154-keep-multiplying-found-values-by-two/) | Easy |
 | [2180-count-integers-with-even-digit-sum](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/master/2180-count-integers-with-even-digit-sum) |
+| [2549-count-distinct-numbers-on-board](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/main/2549-count-distinct-numbers-on-board/) | Easy |
 | [3894-traffic-signal-color](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/main/3894-traffic-signal-color/) | Easy |
 | [3925-concatenate-array-with-reverse](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/master/3925-concatenate-array-with-reverse) |
 ## Hash Table
@@ -74,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2418-sort-the-people](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/main/2418-sort-the-people/) | Easy |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/main/2441-largest-positive-integer-that-exists-with-its-negative/) | Easy |
 | [2540-minimum-common-value](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/main/2540-minimum-common-value/) | Easy |
+| [2549-count-distinct-numbers-on-board](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/main/2549-count-distinct-numbers-on-board/) | Easy |
 | [3005-count-elements-with-maximum-frequency](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/main/3005-count-elements-with-maximum-frequency/) | Easy |
 | [3663-find-the-least-frequent-digit](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/master/3663-find-the-least-frequent-digit) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/main/3712-sum-of-elements-with-frequency-divisible-by-k/) | Easy |
@@ -162,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2520-count-the-digits-that-divide-a-number](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2544-alternating-digit-sum](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/master/2544-alternating-digit-sum) |
+| [2549-count-distinct-numbers-on-board](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/main/2549-count-distinct-numbers-on-board/) | Easy |
 | [2651-calculate-delayed-arrival-time](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/main/2651-calculate-delayed-arrival-time/) | Easy |
 | [3024-type-of-triangle](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/main/3024-type-of-triangle/) | Easy |
 | [3232-find-if-digit-game-can-be-won](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/main/3232-find-if-digit-game-can-be-won/) | Easy |
