@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0007-reverse-integer](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/main/0007-reverse-integer/) | Medium |
 | [0029-divide-two-integers](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/master/0043-multiply-strings) |
 | [0050-powx-n](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/master/0050-powx-n) |
