@@ -178,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3663-find-the-least-frequent-digit](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/master/3663-find-the-least-frequent-digit) |
+| [3870-count-commas-in-range](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/main/3870-count-commas-in-range/) | Easy |
 | [3894-traffic-signal-color](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/main/3894-traffic-signal-color/) | Easy |
 | [3908-valid-digit-number](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/master/3908-valid-digit-number) |
 ## Recursion
