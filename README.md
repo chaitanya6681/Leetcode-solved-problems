@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3005-count-elements-with-maximum-frequency](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/main/3005-count-elements-with-maximum-frequency/) | Easy |
 | [3024-type-of-triangle](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/main/3024-type-of-triangle/) | Easy |
 | [3232-find-if-digit-game-can-be-won](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/main/3232-find-if-digit-game-can-be-won/) | Easy |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 | [3663-find-the-least-frequent-digit](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/master/3663-find-the-least-frequent-digit) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/main/3712-sum-of-elements-with-frequency-divisible-by-k/) | Easy |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3024-type-of-triangle](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/main/3024-type-of-triangle/) | Easy |
 | [3232-find-if-digit-game-can-be-won](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/main/3232-find-if-digit-game-can-be-won/) | Easy |
 | [3280-convert-date-to-binary](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/master/3280-convert-date-to-binary) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3492-maximum-containers-on-a-ship](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/master/3492-maximum-containers-on-a-ship) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
