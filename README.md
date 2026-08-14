@@ -347,4 +347,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/main/0100-same-tree/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/main/0199-binary-tree-right-side-view/) | Medium |
+## Database
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1683-invalid-tweets](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/main/1683-invalid-tweets/) | Easy |
 <!---LeetCode Topics End-->
