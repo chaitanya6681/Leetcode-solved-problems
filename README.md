@@ -160,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1688-count-of-matches-in-tournament](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/master/1688-count-of-matches-in-tournament) |
+| [1925-count-square-sum-triples](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/main/1925-count-square-sum-triples/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2180-count-integers-with-even-digit-sum](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2413-smallest-even-multiple](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/master/2413-smallest-even-multiple) |
@@ -295,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1925-count-square-sum-triples](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/main/1925-count-square-sum-triples/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
