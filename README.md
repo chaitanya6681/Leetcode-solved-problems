@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/master/0066-plus-one) |
 | [0231-power-of-two](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/main/0263-ugly-number/) | Easy |
+| [0292-nim-game](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/main/0292-nim-game/) | Easy |
 | [0326-power-of-three](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/master/0342-power-of-four) |
 | [0412-fizz-buzz](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/master/0412-fizz-buzz) |
@@ -283,15 +284,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Game Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0292-nim-game](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/main/0292-nim-game/) | Easy |
 | [0877-stone-game](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/main/0877-stone-game/) | Medium |
 | [1025-divisor-game](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/main/1025-divisor-game/) | Easy |
 ## Brainteaser
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0292-nim-game](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/main/0292-nim-game/) | Easy |
 | [1025-divisor-game](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/main/1025-divisor-game/) | Easy |
 ## Impartial Game
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0292-nim-game](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/main/0292-nim-game/) | Easy |
 | [1025-divisor-game](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/main/1025-divisor-game/) | Easy |
 ## Enumeration
 | Problem Name | Difficulty |
@@ -354,4 +358,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0627-swap-sex-of-employees](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/main/0627-swap-sex-of-employees/) | Easy |
 | [1683-invalid-tweets](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/main/1683-invalid-tweets/) | Easy |
+## Minimax
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0292-nim-game](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/main/0292-nim-game/) | Easy |
+## Nim Game
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0292-nim-game](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/main/0292-nim-game/) | Easy |
 <!---LeetCode Topics End-->
