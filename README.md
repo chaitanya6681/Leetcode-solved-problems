@@ -185,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3870-count-commas-in-range](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/main/3870-count-commas-in-range/) | Easy |
 | [3894-traffic-signal-color](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/main/3894-traffic-signal-color/) | Easy |
 | [3908-valid-digit-number](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/master/3908-valid-digit-number) |
+| [3918-sum-of-primes-between-number-and-its-reverse](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/main/3918-sum-of-primes-between-number-and-its-reverse/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2413-smallest-even-multiple](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/master/2413-smallest-even-multiple) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
+| [3918-sum-of-primes-between-number-and-its-reverse](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/main/3918-sum-of-primes-between-number-and-its-reverse/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
