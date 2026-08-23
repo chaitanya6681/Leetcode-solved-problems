@@ -362,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0175-combine-two-tables](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/main/0175-combine-two-tables/) | Easy |
 | [0176-second-highest-salary](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/main/0176-second-highest-salary/) | Medium |
 | [0627-swap-sex-of-employees](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/main/0627-swap-sex-of-employees/) | Easy |
 | [1683-invalid-tweets](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/main/1683-invalid-tweets/) | Easy |
