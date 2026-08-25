@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3513-number-of-unique-xor-triplets-i](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 | [3663-find-the-least-frequent-digit](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/master/3663-find-the-least-frequent-digit) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/main/3712-sum-of-elements-with-frequency-divisible-by-k/) | Easy |
+| [3718-smallest-missing-multiple-of-k](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/main/3774-absolute-difference-between-maximum-and-minimum-k-elements/) | Easy |
 | [3925-concatenate-array-with-reverse](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/master/3925-concatenate-array-with-reverse) |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/main/3936-minimum-swaps-to-move-zeros-to-end/) | Easy |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3005-count-elements-with-maximum-frequency](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/main/3005-count-elements-with-maximum-frequency/) | Easy |
 | [3663-find-the-least-frequent-digit](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/master/3663-find-the-least-frequent-digit) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/main/3712-sum-of-elements-with-frequency-divisible-by-k/) | Easy |
+| [3718-smallest-missing-multiple-of-k](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
