@@ -369,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0178-rank-scores](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/main/0178-rank-scores/) | Medium |
 | [0627-swap-sex-of-employees](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/main/0627-swap-sex-of-employees/) | Easy |
 | [1683-invalid-tweets](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/main/1683-invalid-tweets/) | Easy |
+| [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/main/2356-number-of-unique-subjects-taught-by-each-teacher/) | Easy |
 ## Minimax
 | Problem Name | Difficulty |
 | ------- | ------- |
