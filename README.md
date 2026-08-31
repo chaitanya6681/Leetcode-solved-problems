@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0912-sort-an-array](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/main/0912-sort-an-array/) | Medium |
 | [0922-sort-array-by-parity-ii](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/main/0922-sort-array-by-parity-ii/) | Easy |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/main/0961-n-repeated-element-in-size-2n-array/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1051-height-checker](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/main/1051-height-checker/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0217-contains-duplicate](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/main/0217-contains-duplicate/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/main/0961-n-repeated-element-in-size-2n-array/) | Easy |
 | [1684-count-the-number-of-consistent-strings](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1748-sum-of-unique-elements](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/main/1748-sum-of-unique-elements/) | Easy |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/main/2154-keep-multiplying-found-values-by-two/) | Easy |
@@ -383,4 +385,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0292-nim-game](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/main/0292-nim-game/) | Easy |
+## Pigeonhole Principle
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/main/0961-n-repeated-element-in-size-2n-array/) | Easy |
 <!---LeetCode Topics End-->
