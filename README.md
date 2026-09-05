@@ -380,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1484-group-sold-products-by-the-date](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/main/1484-group-sold-products-by-the-date/) | Easy |
 | [1683-invalid-tweets](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/main/1683-invalid-tweets/) | Easy |
 | [1757-recyclable-and-low-fat-products](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/main/1757-recyclable-and-low-fat-products/) | Easy |
+| [1890-the-latest-login-in-2020](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/main/1890-the-latest-login-in-2020/) | Easy |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/main/2356-number-of-unique-subjects-taught-by-each-teacher/) | Easy |
 ## Minimax
 | Problem Name | Difficulty |
