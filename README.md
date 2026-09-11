@@ -382,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0595-big-countries](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/main/0595-big-countries/) | Easy |
 | [0620-not-boring-movies](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/main/0620-not-boring-movies/) | Easy |
 | [0627-swap-sex-of-employees](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/main/0627-swap-sex-of-employees/) | Easy |
+| [1068-product-sales-analysis-i](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/main/1068-product-sales-analysis-i/) | Easy |
 | [1484-group-sold-products-by-the-date](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/main/1484-group-sold-products-by-the-date/) | Easy |
 | [1683-invalid-tweets](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/main/1683-invalid-tweets/) | Easy |
 | [1729-find-followers-count](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/main/1729-find-followers-count/) | Easy |
