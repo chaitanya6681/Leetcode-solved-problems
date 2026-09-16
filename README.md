@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1684-count-the-number-of-consistent-strings](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1748-sum-of-unique-elements](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/main/1748-sum-of-unique-elements/) | Easy |
 | [1816-truncate-sentence](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/master/1816-truncate-sentence) |
+| [1822-sign-of-the-product-of-an-array](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/main/1822-sign-of-the-product-of-an-array/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [1991-find-the-middle-index-in-array](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/main/1991-find-the-middle-index-in-array/) | Easy |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/main/2037-minimum-number-of-moves-to-seat-everyone/) | Easy |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1688-count-of-matches-in-tournament](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/master/1688-count-of-matches-in-tournament) |
+| [1822-sign-of-the-product-of-an-array](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/main/1822-sign-of-the-product-of-an-array/) | Easy |
 | [1925-count-square-sum-triples](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/main/1925-count-square-sum-triples/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2180-count-integers-with-even-digit-sum](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/master/2180-count-integers-with-even-digit-sum) |
