@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0043-multiply-strings](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/master/0043-multiply-strings) |
+| [0171-excel-sheet-column-number](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/main/0171-excel-sheet-column-number/) | Easy |
 | [0412-fizz-buzz](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/master/0412-fizz-buzz) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0657-robot-return-to-origin](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/master/0657-robot-return-to-origin) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/master/0043-multiply-strings) |
 | [0050-powx-n](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/master/0066-plus-one) |
+| [0171-excel-sheet-column-number](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/main/0171-excel-sheet-column-number/) | Easy |
 | [0231-power-of-two](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/main/0263-ugly-number/) | Easy |
 | [0292-nim-game](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/main/0292-nim-game/) | Easy |
