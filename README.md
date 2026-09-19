@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2540-minimum-common-value](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/main/2540-minimum-common-value/) | Easy |
 | [2549-count-distinct-numbers-on-board](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/main/2549-count-distinct-numbers-on-board/) | Easy |
+| [2553-separate-the-digits-in-an-array](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [2574-left-and-right-sum-differences](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/master/2574-left-and-right-sum-differences) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 | [3005-count-elements-with-maximum-frequency](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/main/3005-count-elements-with-maximum-frequency/) | Easy |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2154-keep-multiplying-found-values-by-two](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/main/2154-keep-multiplying-found-values-by-two/) | Easy |
 | [2180-count-integers-with-even-digit-sum](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2549-count-distinct-numbers-on-board](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/main/2549-count-distinct-numbers-on-board/) | Easy |
+| [2553-separate-the-digits-in-an-array](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [3894-traffic-signal-color](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/main/3894-traffic-signal-color/) | Easy |
 | [3925-concatenate-array-with-reverse](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/master/3925-concatenate-array-with-reverse) |
 ## Hash Table
