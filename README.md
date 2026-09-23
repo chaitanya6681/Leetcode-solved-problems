@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 | [3005-count-elements-with-maximum-frequency](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/main/3005-count-elements-with-maximum-frequency/) | Easy |
 | [3024-type-of-triangle](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/main/3024-type-of-triangle/) | Easy |
+| [3074-apple-redistribution-into-boxes](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/main/3074-apple-redistribution-into-boxes/) | Easy |
 | [3232-find-if-digit-game-can-be-won](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/main/3232-find-if-digit-game-can-be-won/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
@@ -240,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2785-sort-vowels-in-a-string](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/master/2785-sort-vowels-in-a-string) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 | [3024-type-of-triangle](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/main/3024-type-of-triangle/) | Easy |
+| [3074-apple-redistribution-into-boxes](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/main/3074-apple-redistribution-into-boxes/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/main/3774-absolute-difference-between-maximum-and-minimum-k-elements/) | Easy |
 ## Prefix Sum
@@ -284,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/main/2037-minimum-number-of-moves-to-seat-everyone/) | Easy |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/main/2410-maximum-matching-of-players-with-trainers/) | Medium |
+| [3074-apple-redistribution-into-boxes](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/main/3074-apple-redistribution-into-boxes/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
