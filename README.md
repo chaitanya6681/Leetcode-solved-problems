@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/main/0961-n-repeated-element-in-size-2n-array/) | Easy |
 | [1684-count-the-number-of-consistent-strings](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1748-sum-of-unique-elements](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/main/1748-sum-of-unique-elements/) | Easy |
+| [1796-second-largest-digit-in-a-string](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/main/1796-second-largest-digit-in-a-string/) | Easy |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/main/2154-keep-multiplying-found-values-by-two/) | Easy |
 | [2351-first-letter-to-appear-twice](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/master/2351-first-letter-to-appear-twice) |
 | [2404-most-frequent-even-element](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/main/2404-most-frequent-even-element/) | Easy |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0917-reverse-only-letters](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/main/0917-reverse-only-letters/) | Easy |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/master/1684-count-the-number-of-consistent-strings) |
+| [1796-second-largest-digit-in-a-string](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/main/1796-second-largest-digit-in-a-string/) | Easy |
 | [1816-truncate-sentence](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/master/1816-truncate-sentence) |
 | [1844-replace-all-digits-with-characters](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/master/1844-replace-all-digits-with-characters) |
 | [1859-sorting-the-sentence](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/main/1859-sorting-the-sentence/) | Easy |
