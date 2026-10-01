@@ -409,6 +409,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1757-recyclable-and-low-fat-products](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/main/1757-recyclable-and-low-fat-products/) | Easy |
 | [1795-rearrange-products-table](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/main/1795-rearrange-products-table/) | Easy |
 | [1890-the-latest-login-in-2020](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/main/1890-the-latest-login-in-2020/) | Easy |
+| [1907-count-salary-categories](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/main/1907-count-salary-categories/) | Medium |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/main/2356-number-of-unique-subjects-taught-by-each-teacher/) | Easy |
 ## Minimax
 | Problem Name | Difficulty |
