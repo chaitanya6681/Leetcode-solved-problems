@@ -404,6 +404,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1068-product-sales-analysis-i](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/main/1068-product-sales-analysis-i/) | Easy |
 | [1075-project-employees-i](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/main/1075-project-employees-i/) | Easy |
 | [1148-article-views-i](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/main/1148-article-views-i/) | Easy |
+| [1327-list-the-products-ordered-in-a-period](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/main/1327-list-the-products-ordered-in-a-period/) | Easy |
 | [1484-group-sold-products-by-the-date](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/main/1484-group-sold-products-by-the-date/) | Easy |
 | [1683-invalid-tweets](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/main/1683-invalid-tweets/) | Easy |
 | [1729-find-followers-count](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/main/1729-find-followers-count/) | Easy |
