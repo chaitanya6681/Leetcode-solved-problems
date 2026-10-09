@@ -411,6 +411,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1587-bank-account-summary-ii](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/main/1587-bank-account-summary-ii/) | Easy |
 | [1683-invalid-tweets](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/main/1683-invalid-tweets/) | Easy |
 | [1729-find-followers-count](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/main/1729-find-followers-count/) | Easy |
+| [1731-the-number-of-employees-which-report-to-each-employee](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/main/1731-the-number-of-employees-which-report-to-each-employee/) | Easy |
 | [1741-find-total-time-spent-by-each-employee](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/main/1741-find-total-time-spent-by-each-employee/) | Easy |
 | [1757-recyclable-and-low-fat-products](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/main/1757-recyclable-and-low-fat-products/) | Easy |
 | [1795-rearrange-products-table](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/main/1795-rearrange-products-table/) | Easy |
