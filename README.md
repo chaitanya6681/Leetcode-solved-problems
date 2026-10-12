@@ -420,6 +420,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1890-the-latest-login-in-2020](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/main/1890-the-latest-login-in-2020/) | Easy |
 | [1907-count-salary-categories](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/main/1907-count-salary-categories/) | Medium |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/main/2356-number-of-unique-subjects-taught-by-each-teacher/) | Easy |
+| [3220-odd-and-even-transactions](https://github.com/chaitanya6681/Leetcode-solved-problems/tree/main/3220-odd-and-even-transactions/) | Medium |
 ## Minimax
 | Problem Name | Difficulty |
 | ------- | ------- |
